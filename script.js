@@ -13,3 +13,8 @@ c.addEventListener("click",function(){
     c.style.display = "none" ;
     h.style.display = "block" ;
 })
+list.addEventListener("click",function(){
+    list.style.right = "-100%" ;
+    c.style.display = "none" ;
+    h.style.display = "block" ;
+})
